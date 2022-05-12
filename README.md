@@ -45,11 +45,14 @@ To get a local copy up and running follow these simple steps:
 * Open your terminal - Windows: `Win + R`, then type `cmd` | Mac: `Command + space`, then type `Terminal`
 * Navigate to a directory of your choosing using the `cd` command
 * Run this command in your OS terminal: `git clone git@github.com:German-Cobian/My-First-Rails-App.git` to get a copy of the project
-* Navigate to the cloned project's directory using the `cd` command.
-* Run  `bundle install` to install all the required gems needed for the project.
-* Since DB has already been created, you need to migrate the DB telling the rails app to establish a connection to run. Run `rails db:migrate`
-* Run `rails server` or `rails s` to start up the server
-* Navigate to `http://localhost:3000` on your browser window
+* Navigate to the cloned project's directory using the `cd` command
+* Run `rails webpacker:install` to configure Webpacker for your environment
+* Install dependencies by running `bundle install`
+* Migrate the database to your environment by running `rails db:migrate`
+* Execute `rails server` or `rails s` to fire up the server
+* Navigate to `http://localhost:3000` to see the home page on your browser window
+* Interact with the app
+* To close the server, enter `Ctrl + C` in your terminal
 
 
 ## Authors
