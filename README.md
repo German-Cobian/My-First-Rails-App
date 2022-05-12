@@ -4,16 +4,16 @@
 
 An app which allows users to input a car (with it's make, model and year information) into a listing,  
 
-![New car](/assets/images/New-car.png?raw=true "New car")
+![New car](/app/assets/images/New-car.png?raw=true "New car")
 
 view that listing,
-![Show cars](/assets/images/Show-cars.png?raw=true "Show cars")
+![Show cars](/app/assets/images/Show-cars.png?raw=true "Show cars")
 
 edit the info on a specific car listing,
-![Edit car](/assets/images/Edit-car.png?raw=true "Edit car")
+![Edit car](/app/assets/images/Edit-car.png?raw=true "Edit car")
 
 or delete that car from the listing.
-![Destroy car](/assets/images/Edit-car.png?raw=true "Destroy car")
+![Destroy car](/app/assets/images/Edit-car.png?raw=true "Destroy car")
 
 This project is an exercise in building CRUD (Create, Read, Update and Destroy) functionality the Ruby-on_Rails way.
 
@@ -81,4 +81,4 @@ Guidelines for this project from [The Odin Project](https://www.theodinproject.c
 
 ## 📝 License
 
-This project is [MIT](https://github.com/promise-J/micro-reddit/blob/micro-reddit-feature/LICENSE) licensed.
+This project is [MIT](https://github.com/German-Cobian/My-First-Rails-App/blob/main/LICENSE) licensed.
