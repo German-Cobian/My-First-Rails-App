@@ -7,12 +7,15 @@ An app which allows users to input a car (with it's make, model and year informa
 ![New car](/app/assets/images/New-car.png?raw=true "New car")
 
 view that listing,
+
 ![Show cars](/app/assets/images/Show-cars.png?raw=true "Show cars")
 
 edit the info on a specific car listing,
+
 ![Edit car](/app/assets/images/Edit-car.png?raw=true "Edit car")
 
 or delete that car from the listing.
+
 ![Destroy car](/app/assets/images/Edit-car.png?raw=true "Destroy car")
 
 This project is an exercise in building CRUD (Create, Read, Update and Destroy) functionality the Ruby-on_Rails way.
@@ -44,7 +47,7 @@ To get a local copy up and running follow these simple steps:
 * Run this command in your OS terminal: `git clone git@github.com:German-Cobian/My-First-Rails-App.git` to get a copy of the project
 * Navigate to the cloned project's directory using the `cd` command.
 * Run  `bundle install` to install all the required gems needed for the project.
-* Since DB has already been created, you need to migrate the DB telling the rails app to establish a connection to run
+* Since DB has already been created, you need to migrate the DB telling the rails app to establish a connection to run. Run `rails db:migrate`
 * Run `rails server` or `rails s` to start up the server
 * Navigate to `http://localhost:3000` on your browser window
 
