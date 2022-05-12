@@ -18,7 +18,7 @@ or delete that car from the listing.
 
 ![Destroy car](/app/assets/images/Edit-car.png?raw=true "Destroy car")
 
-This project is an exercise in building CRUD (Create, Read, Update and Destroy) functionality the Ruby-on_Rails way.
+This project is an exercise in building CRUD (Create, Read, Update and Destroy) functionality the Ruby-on-Rails way.
 
 
 ## Built With
